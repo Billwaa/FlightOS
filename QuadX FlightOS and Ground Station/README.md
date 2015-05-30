@@ -1,0 +1,1 @@
+The FlightOS is the firmware for an Arduino DUE based flight controller. It can work stand-alone to control the quadcopter. In addition, with a laptop, the ground station app can be used to collect telemetry data through an XBEE. The ground station can also override the RC transmitter link should there be an hardware malfunction.
